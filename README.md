@@ -5,6 +5,7 @@
 **required**
 - Java 11
 - Maven 3.8.x
+- latest Firefox
 
 to run tests, execute 'mvn clean integration-test' command in terminal.
 
